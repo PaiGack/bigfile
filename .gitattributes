@@ -1,0 +1,2 @@
+YourFileName filter=lfs diff=lfs merge=lfs -text
+dgsetup.exe filter=lfs diff=lfs merge=lfs -text
